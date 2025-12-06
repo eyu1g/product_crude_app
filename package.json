@@ -1,0 +1,22 @@
+{
+  "name": "product_crude_app",
+  "version": "1.0.0",
+  "description": "Product CRUD API with Mongoose model, validations, and pre-save hook",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "express",
+    "mongoose",
+    "crud",
+    "api"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.8.1"
+  }
+}
